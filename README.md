@@ -1,12 +1,7 @@
-### Hi there 👋
+### Hi there👋 , I am Mahedi Hasan Utshow 👋
+Thanks for visiting my git.
 
-I am a professional, well experienced Android and Website Developer :) . I am completing undergraduate on Computer Science and Engineering with specific focus in Cybersecurity. I am ighly experienced with making Web and Mobile Application as well as certified Cybersecurity expert. 
-I am Productive, resourceful, disciplined with high programming skill.
-
-<!--
-**mhutshow/mhutshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨✨✨✨✨✨✨✨✨✨✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+Thanks for visiting my git.
+
