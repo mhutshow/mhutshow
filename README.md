@@ -9,8 +9,7 @@ My experience includes working on Android, iOS, and Web applications, and I have
 As a software developer, I prioritize clean, maintainable code and believe in continuously learning and growing as a developer. I am available for full-time opportunities and am excited to bring my skills and experience to a new team. Thank you for considering my application.
 
 <br/><br/>
-To talk little bit about myself, I am easy and flexible to work with. I think I am a
-hard working person. I like reading books, going on tour and watching tv series.</p> 
+To talk little bit about myself, I am a cooooool guy who loves coding and playing guitar. </p> 
 
 - 📫 Email me to **mahedi.mhu@outlook.com**
 
