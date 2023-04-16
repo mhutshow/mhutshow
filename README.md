@@ -55,15 +55,3 @@ hard working person. I like reading books, going on tour and watching tv series.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 
-</p>
-
-<h3>Programming Language</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &emsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahtaz-tqldd&show_icons=true&locale=en" alt="shahtaz-tqldd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhutshow&" alt="mahedi" /></p>
