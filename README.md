@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack Mobile & Web Developer</h3>
 
 <p>
-As a Full-Stack Software Developer with 4+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, Wordpress, and more. With my experience, I have produced multiple production web and mobile applications and have worked with both large and small-scale companies in global teams.
+As a Full-Stack Software Developer with 5+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, Wordpress, and more. With my experience, I have produced multiple production web and mobile applications and have worked with both large and small-scale companies in global teams.
 
 My experience includes working on Android, iOS, and Web applications, and I have deployed multiple production projects in Playstore, Appstore, Heroku, Vercel, and AWS. I am proud to have completed my Bachelor's in Computer Science and Engineering with a High Distinction CGPA from BRAC University.
 
