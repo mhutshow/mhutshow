@@ -31,12 +31,10 @@ I am a cool guy who loves coding and playing guitar.
 
 <h3 align="center">GitHub Stats</h3>
 
-![Mahedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhutshow&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhutshow&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhutshow&theme=radical)
 
 <h3 align="center">Contributions in the last year</h3>
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=mhutshow&theme=rogue)
+![GitHub Contribution Snake](https://github.com/mhutshow/mhutshow/blob/output/github-contribution-grid-snake.svg)
