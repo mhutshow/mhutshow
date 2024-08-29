@@ -23,7 +23,7 @@ Full Stack Developer with diverse experience in mobile, web, and cloud developme
 - **Deen** | Android, iOS, MacOS app  
   With 450k+ users and 4.9* average rating, my solo developed app globally ranked #2 in lifestyle category on Play store.  
   **Technology**: Flutter | Node.js | AWS Lambda | AWS ECS | Firebase | PostgreSQL | SQLite  
-  **Link**: [Play store](https://play.google.com/store/apps/details?id=com.letsflutter.deen&hl=en_AU&gl=CA) | [Appstore]((https://apps.apple.com/us/app/deen-islamic-app/id1617532276) | [Video](https://www.youtube.com/watch?v=9fCJA9vMP3o)
+  **Link**: [Play store](https://play.google.com/store/apps/details?id=com.letsflutter.deen&hl=en_AU&gl=CA) | [Appstore](https://apps.apple.com/us/app/deen-islamic-app/id1617532276) | [Video](https://www.youtube.com/watch?v=9fCJA9vMP3o)
 
 - **Aurora - Photo AI** | Artificial Intelligence App for iOS, MacOS & Vision Pro  
   **Technology**: Pytorch | Generative Adversarial Networks | Stable Diffusion | Nest.js | Flutter | EC2 | Docker | Oauth2  
