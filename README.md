@@ -43,7 +43,7 @@ I am a cool guy who loves coding and playing guitar.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="NestJS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" alt="AWS" width="40" height="40"/>
 </p>
 
 <h3 align="center">GitHub Stats</h3>
