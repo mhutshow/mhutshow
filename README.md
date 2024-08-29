@@ -1,33 +1,35 @@
 ![MasterHead](https://coderflies.com/github.gif)
 
 <h1 align="center">Hi, I'm Mahedi Hasan</h1>
-<h3 align="center">A Full Stack Mobile & Web Developer</h3>
 
 <p align="center">
-As a Full-Stack Software Developer with 5+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, and more. I have produced multiple production web and mobile applications and collaborated with both large and small-scale companies globally.
+<a href="https://mahedi.info">https://mahedi.info</a>
 </p>
 
-<p align="center">
-My experience includes Android, iOS, and Web applications, with multiple production projects deployed on Playstore, Appstore, Heroku, Vercel, and AWS. I hold a Bachelor's in Computer Science and Engineering with High Distinction from BRAC University.
-</p>
+Full Stack Developer with diverse experience in mobile, web, and cloud development, proficient in front-end and back-end technologies, and experienced in database management, DevOps, and API integration. Proven record of delivering high-quality software solutions that drive business growth and improve operational efficiency. Expertise in system design, architecture, and solving complex problems, with a focus on scalable and reliable solutions. 
 
-<p align="center">
-As a software developer, I prioritize clean, maintainable code and believe in continuous learning and growth. I am available for full-time opportunities and excited to bring my skills to a new team.
-</p>
+**A proud open source contributor.**
 
-<p align="center">
-I am a cool guy who loves coding and playing guitar.
-</p>
+## Tech stack
+- **Programming Languages**: Java, Dart, JavaScript, TypeScript, Python, Kotlin
+- **Frontend**: Flutter, React, Next.js, Swift UI, Tailwind, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Nest.js, Express, REST API, Apollo, GraphQL, TypeORM, Prisma, Swagger, Webhooks, WebSockets
+- **Database**: PostgreSQL, MySQL, DynamoDB, Firestore, MongoDB, SQLite, Graph Database
+- **Cloud**: AWS IAM, EC2, ECS, S3, Lambda, RDS, VPC, CloudFront, CloudWatch, LightSail, Serverless, DynamoDB
+- **Others**: Git, Docker, Wordpress, Mobile app development, Unit & Integration testing, Machine Learning and AI
 
-- 📫 **Email:** mahedi.mhu@outlook.com
+## Most Proud Project (Making 500k+ people happy)
 
-<h3 align="left">Reach me out at</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mhutshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahedi Hasan" height="30" width="40" /></a> &emsp;
-<a href="https://fb.com/mhutshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahedi" height="30" width="40" /></a> &emsp;
-<a href="https://www.instagram.com/mhutshow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhutshow" height="30" width="40" /></a> &emsp;
-<a href="https://twitter.com/mhutshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhutshow" height="30" width="40" /></a>
-</p>
+- **Deen** | Android, iOS, MacOS app  
+  With 450k+ users and 4.9* average rating, my solo developed app globally ranked #2 in lifestyle category on Play store.  
+  **Technology**: Flutter | Node.js | AWS Lambda | AWS ECS | Firebase | PostgreSQL | SQLite  
+  **Link**: [Play store](https://play.google.com/store/apps/details?id=com.letsflutter.deen&hl=en_AU&gl=CA) | [Appstore]((https://apps.apple.com/us/app/deen-islamic-app/id1617532276) | [Video](https://www.youtube.com/watch?v=9fCJA9vMP3o)
+
+- **Aurora - Photo AI** | Artificial Intelligence App for iOS, MacOS & Vision Pro  
+  **Technology**: Pytorch | Generative Adversarial Networks | Stable Diffusion | Nest.js | Flutter | EC2 | Docker | Oauth2  
+  **Link**: [Appstore](https://apps.apple.com/us/app/aurora-photo-ai/id6575389040) | [Video](https://www.youtube.com/watch?v=VjKJREydhTY)
+
+ <--- 2 More coming in this year --->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -37,7 +39,7 @@ I am a cool guy who loves coding and playing guitar.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/apple-logo-png-transparent.png" alt="iOS" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/apple-logo-png-transparent.png" alt="iOS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
