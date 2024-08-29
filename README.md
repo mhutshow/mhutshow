@@ -1,20 +1,26 @@
 ![MasterHead](https://coderflies.com/github.gif)
+
 <h1 align="center">Hi, I'm Mahedi Hasan</h1>
 <h3 align="center">A Full Stack Mobile & Web Developer</h3>
 
-<p>
-As a Full-Stack Software Developer with 5+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, Wordpress, and more. With my experience, I have produced multiple production web and mobile applications and have worked with both large and small-scale companies in global teams.
+<p align="center">
+As a Full-Stack Software Developer with 5+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, WordPress, and more. I have produced multiple production web and mobile applications and collaborated with both large and small-scale companies globally.
+</p>
 
-My experience includes working on Android, iOS, and Web applications, and I have deployed multiple production projects in Playstore, Appstore, Heroku, Vercel, and AWS. I am proud to have completed my Bachelor's in Computer Science and Engineering with a High Distinction CGPA from BRAC University.
+<p align="center">
+My experience includes Android, iOS, and Web applications, with multiple production projects deployed on Playstore, Appstore, Heroku, Vercel, and AWS. I hold a Bachelor's in Computer Science and Engineering with High Distinction from BRAC University.
+</p>
 
-As a software developer, I prioritize clean, maintainable code and believe in continuously learning and growing as a developer. I am available for full-time opportunities and am excited to bring my skills and experience to a new team. Thank you for considering my application.
+<p align="center">
+As a software developer, I prioritize clean, maintainable code and believe in continuous learning and growth. I am available for full-time opportunities and excited to bring my skills to a new team.
+</p>
 
-<br/><br/>
-To talk little bit about myself, I am a cooooool guy who loves coding and playing guitar. </p> 
+<p align="center">
+I am a cool guy who loves coding and playing guitar.
+</p>
 
-- 📫 Email me to **mahedi.mhu@outlook.com**
+- 📫 **Email:** mahedi.mhu@outlook.com
 
-<br/>
 <h3 align="left">Reach me out at</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mhutshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahedi Hasan" height="30" width="40" /></a> &emsp;
@@ -23,5 +29,14 @@ To talk little bit about myself, I am a cooooool guy who loves coding and playin
 <a href="https://twitter.com/mhutshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhutshow" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">GitHub Stats</h3>
 
+![Mahedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhutshow&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhutshow&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhutshow&theme=radical)
+
+<h3 align="center">Contributions in the last year</h3>
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=mhutshow&theme=rogue)
