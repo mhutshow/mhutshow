@@ -1,0 +1,21 @@
+name: Debug Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Snake (Debug Mode)
+        uses: Platane/snk@v2
+        with:
+          github_user_name: mhutshow
+          outputs: dist/snake.svg
+
+      - name: Print fetched data
+        run: |
+          cat dist/snake.svg
