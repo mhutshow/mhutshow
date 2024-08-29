@@ -37,8 +37,6 @@ I am a cool guy who loves coding and playing guitar.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
@@ -49,8 +47,6 @@ I am a cool guy who loves coding and playing guitar.
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhutshow&show_icons=true&theme=radical" alt="Mahedi's GitHub stats" />
-  &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhutshow&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
