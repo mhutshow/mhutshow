@@ -4,7 +4,7 @@
 <h3 align="center">A Full Stack Mobile & Web Developer</h3>
 
 <p align="center">
-As a Full-Stack Software Developer with 5+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, WordPress, and more. I have produced multiple production web and mobile applications and collaborated with both large and small-scale companies globally.
+As a Full-Stack Software Developer with 5+ years of experience in software design, development, and writing clean, maintainable code, I have worked extensively with Java, Dart, JavaScript, React, Node.js, Flutter, AWS, Azure, and more. I have produced multiple production web and mobile applications and collaborated with both large and small-scale companies globally.
 </p>
 
 <p align="center">
@@ -29,12 +29,31 @@ I am a cool guy who loves coding and playing guitar.
 <a href="https://twitter.com/mhutshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhutshow" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/>
+</p>
+
 <h3 align="center">GitHub Stats</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhutshow&layout=compact&theme=radical)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhutshow&show_icons=true&theme=radical" alt="Mahedi's GitHub stats" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhutshow&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhutshow&theme=radical)
-
-<h3 align="center">Contributions in the last year</h3>
-
-![GitHub Contribution Snake](https://github.com/mhutshow/mhutshow/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhutshow&theme=radical" alt="GitHub Streak" />
+</p>
