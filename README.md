@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Mahedi Hasan</h1>
 
-<p align="center">
-<a href="https://mahedi.info">https://mahedi.info</a>
-</p>
-
 Full Stack Developer with diverse experience in mobile, web, and cloud development, proficient in front-end and back-end technologies, and experienced in database management, DevOps, and API integration. Proven record of delivering high-quality software solutions that drive business growth and improve operational efficiency. Expertise in system design, architecture, and solving complex problems, with a focus on scalable and reliable solutions. 
 
 **A proud open source contributor.**
