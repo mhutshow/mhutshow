@@ -1,5 +1,3 @@
-![MasterHead](https://coderflies.com/github.gif)
-
 <h1 align="center">Hi, I'm Mahedi Hasan</h1>
 
 <p align="center">
